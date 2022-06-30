@@ -1,0 +1,9 @@
+django >= 4.0
+django-filter >= 1.0.1
+django-guardian
+Pygments
+django-rest-knox
+requests
+python-decouple >= 3.6
+pycodestyle
+psycopg2
